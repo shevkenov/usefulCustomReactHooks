@@ -1,0 +1,16 @@
+.App {
+  margin-top: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hook{
+  border-bottom: 2px solid black;
+  width: 40%;
+  padding-bottom: 10px;
+}
+
+
