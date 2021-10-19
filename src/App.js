@@ -4,6 +4,7 @@ import TimeoutComponent from './Components/2.useTimeout/TimeoutComponent';
 import Debounce from './Components/3.useDebounce/Debounce';
 import Uppdate from './Components/4.useUpdateEffect/Uppdate';
 import ArrayComp from './Components/5.useArray/ArrayComp';
+import PrevValue from './Components/6.usePrevValue/PrevValue'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Debounce />
       <Uppdate />
       <ArrayComp />
+      <PrevValue />
     </div>
   );
 }
